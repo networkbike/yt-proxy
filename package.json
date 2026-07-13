@@ -1,0 +1,9 @@
+{
+  "name": "yt-proxy",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "dependencies": {
+    "youtube-transcript": "^1.2.1"
+  }
+}
